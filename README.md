@@ -20,9 +20,9 @@ Benutzer können sich registrieren und einloggen
 Nach dem Login können Favoriten hinzugefügt und gespeichert werden (z. B. Lieblingscharaktere oder -zaubersprüche)
 
 # 👥 Gruppenmitglieder
-[Name 1] – [Rolle, z. B. Frontend, Design]
+Mohamad Shahin – 
 
-[Name 2] – [Rolle, z. B. Backend, Datenmanagement]
+Louris Marianna Houch – 
 
 # ⚙️ Verwendete Technologien
 HTML, CSS, JavaScript
